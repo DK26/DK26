@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dave.
 
-I'm a Backend Engineer with a strong focus on performance, system design, and secure architecture — building reliable tools and services with **Rust** and **Python**.
+I'm a Backend Engineer with a strong focus on performance, system design, and secure architecture. Building reliable tools and services with **Rust** and **Python**.
 
 With over 9 years of experience in backend development and security automation, I've worked across finance and health-tech sectors, tackling complex backend problems.
 
