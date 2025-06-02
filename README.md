@@ -1,16 +1,24 @@
-### Welcome! 👋
+# 👋 Hi there, I'm Dave.
 
-<!--
-**DK26/DK26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Engineer with a strong focus on performance, system design, and secure architecture — building reliable tools and services with **Rust** and **Python**.
 
-Here are some ideas to get you started:
+With over 9 years of experience in backend development and security automation, I've worked across finance and health-tech sectors, tackling complex backend problems involving:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧰 **Microservice migrations** (Java → Rust)
+- ⚙️ **Scalable system design** & performance troubleshooting
+- 🛡️ **Security-focused automation** (SIEM/SOC integrations)
+- 📊 **Observability** and log ingestion tooling
+- 🔌 **API integrations** and developer tooling
+
+---
+
+## 🚀 What I'm Working On
+
+- Building backend systems that are secure, scalable, and developer-friendly  
+- Improving existing open-source projects and exploring new ones in the **Rust ecosystem**  
+- Learning about **FastAPI**, **Kubernetes**, and **distributed system patterns**
+
+---
+
+Thanks for stopping by!  
+Always open to collaboration, code reviews, and conversations about backend systems, Rust, or security tooling.
