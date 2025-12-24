@@ -1,30 +1,29 @@
-# 🛠️ Backend Engineer | Rust & Python Enthusiast  
+# 🛡️ Security Platform Engineer (R&D/Tooling) | Rust & Python
 
-I’m a self-taught engineer with roots going back to DOS and Pascal, and a passion for building practical, high-performance backend systems that solve real-world problems.
+I build **security-by-design platforms and developer tools**: safe primitives, guardrails, and reliable services that help teams ship faster without shipping incidents.
 
-These days, I focus on designing secure, efficient, and developer-friendly software — blending high-level design with low-level control.
-
----
-
-## 💡 My Philosophy  
-- **Make powerful things feel simple**  
-- **Bridge high-level productivity and low-level performance**  
-- **Prioritize clarity, maintainability, and real-world impact**
+My work blends **backend engineering**, **security engineering**, and **systems design** — with open-source Rust projects focused on correctness and hard-to-misuse APIs.
 
 ---
 
-## 🧠 My Journey  
-- Built my first DOS quiz game at 12 using Pascal  
-- Created GUI tools in VB6 to launch LAN game servers  
-- Learned networking, worked in IT & SIEM/SOC environments  
-- Spent years building automations and tools in Python  
-- Discovered Rust and fell in love with its safety and performance  
-- Now designing APIs and systems with Rust that are simple to use, hard to misuse  
+## 💡 Focus
+- Security platform/tooling (safe-by-default libraries, policy layers, automation)
+- Backend systems (performance, reliability, clean APIs)
+- SIEM/SOC automation & pipelines
+- Cloud-native direction: Kubernetes + observability
 
 ---
 
-## 🔍 What I Do  
-- 🧩 **Microservices**: Designing and implementing scalable architectures  
-- ⚙️ **Automation**: Streamlining operations, especially for SIEM/SOC workflows  
-- 📈 **Performance**: Building efficient, reliable backend systems  
-- 🔐 **Security**: Integrating robust security at the core of backend solutions  
+## 🧭 Principles
+- Make powerful things feel simple
+- Explicit boundaries, small trusted cores
+- Clarity, maintainability, real-world impact
+
+---
+
+- ## 🧠 Journey 
+- Started coding early (DOS/Pascal), later built small GUI tools (VB6)
+- Built a strong networking/IT foundation and moved into SIEM/SOC environments
+- Shipped and maintained automation + backend systems in Python over multiple years
+- Shifted toward Rust to build security-by-design primitives and developer tooling
+- Today: focus on security platforms/tooling (R&D → product), with SIEM automation and cloud-native direction (K8s/observability)
